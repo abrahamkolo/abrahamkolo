@@ -1,7 +1,7 @@
 <h1 align="center">Abraham J. Kolo</h1>
 
 <p align="center">
-  <strong>Creator of the Flame Spiral Methodâ¢ | Spiritual Architect | Flamebearer</strong>
+  <strong>Creator of the Flame Spiral Method&trade; | Spiritual Architect | Flamebearer</strong>
 </p>
 
 <p align="center">
@@ -19,17 +19,17 @@ I build **sovereign systems** for identity, creativity, and institutional legacy
 
 Everything I ship passes through five constraints: **Robustness. Asymmetry. Inevitability. Sovereignty. Wealth.**
 
-- ð **Formation Series** â A 24-volume devotional library mapped to the Flame Spiral, published on Amazon KDP
-- ðµ **Sacred Music** â Compositions structured through spiral architecture
-- ðï¸ **Institutional Systems** â Constitutions, governance frameworks, and deployment infrastructure
-- ð¥ **Flame Spiral Methodâ¢** â A 24-step circular progression system for identity-based transformation
+- **Formation Series** -- A 24-volume devotional library mapped to the Flame Spiral, published on Amazon KDP
+- **Sacred Music** -- Compositions structured through spiral architecture
+- **Institutional Systems** -- Constitutions, governance frameworks, and deployment infrastructure
+- **Flame Spiral Method&trade;** -- A 24-step circular progression system for identity-based transformation
 
 ---
 
 ### Current Work
 
 ```
-System:      MW-Omega v2.2 â ACTIVE
+System:      MW-Omega v2.2 -- ACTIVE
 Powers:      17/17 OPERATIONAL
 Energy:      20hr/week Projector protocol
 Constraints: Robustness | Asymmetry | Inevitability | Sovereignty | Wealth
@@ -39,7 +39,7 @@ Constraints: Robustness | Asymmetry | Inevitability | Sovereignty | Wealth
 
 ### Heritage
 
-**Tarok & Nupe** â Nigerian roots that inform everything I build. Identity is not decoration. It is architecture.
+**Tarok & Nupe** -- Nigerian roots that inform everything I build. Identity is not decoration. It is architecture.
 
 ---
 
@@ -47,7 +47,7 @@ Constraints: Robustness | Asymmetry | Inevitability | Sovereignty | Wealth
 
 | Repo | Description |
 |------|-------------|
-| [**MW**](https://github.com/abrahamkolo/MW) | MW-Omega v2.2 â The sovereign operating system for identity, creativity, and institutional legacy |
+| [**MW**](https://github.com/abrahamkolo/MW) | MW-Omega v2.2 -- The sovereign operating system for identity, creativity, and institutional legacy |
 
 ---
 
@@ -56,5 +56,5 @@ Constraints: Robustness | Asymmetry | Inevitability | Sovereignty | Wealth
 </p>
 
 <p align="center">
-  <strong>In formation â not failure.</strong>
+  <strong>In formation -- not failure.</strong>
 </p>
