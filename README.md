@@ -43,11 +43,15 @@ Constraints: Robustness | Asymmetry | Inevitability | Sovereignty | Wealth
 
 ---
 
-### Repository
+### Current Infrastructure
 
-| Repo | Description |
-|------|-------------|
-| [**MW**](https://github.com/abrahamkolo/MW) | MW-Omega v2.2 -- The sovereign operating system for identity, creativity, and institutional legacy |
+Building institutional-grade governance systems with cryptographic verification.
+
+- **[Reliance Infrastructure Canon](https://github.com/abrahamkolo/reliance-infrastructure-canon)** -- 39 constitutional documents, SHA3-512 + Ed25519, [DOI: 10.5281/zenodo.18707171](https://doi.org/10.5281/zenodo.18707171)
+- **[MW-Omega Orchestrator](https://github.com/abrahamkolo/mw-omega-orchestrator)** -- deterministic decision engine with 24 tests
+- **[Verification Tool](https://github.com/abrahamkolo/reliance-verify)** -- independent canon authentication
+- **[Governance Templates](https://github.com/abrahamkolo/governance-templates)** -- reusable institutional document templates
+- **[MW](https://github.com/abrahamkolo/MW)** -- MW-Omega v2.2, the sovereign operating system
 
 ---
 
