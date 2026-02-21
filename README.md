@@ -1,3 +1,7 @@
+> **New here?** Start with [**mw-omega-orchestrator**](https://github.com/abrahamkolo/mw-omega-orchestrator) → run the 60-second verify → then read the [**MW canon**](https://github.com/abrahamkolo/reliance-infrastructure-canon).
+
+---
+
 <h1 align="center">Abraham J. Kolo</h1>
 
 <p align="center">
